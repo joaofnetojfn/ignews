@@ -86,9 +86,9 @@ $ yarn test
 ```
 Acesse: http://localhost:3000/ para ver o resultado.
 
-🚧  Status: 🚀 Em construção...  🚧
-🚧  Status: 🚀 Em construção...  🚧
-🚧  Status: 🚀 Em construção...  🚧
+🚧  Status: 🚀 Em construção...  🚧<br/>
+🚧  Status: 🚀 Em construção...  🚧<br/>
+🚧  Status: 🚀 Em construção...  🚧<br/>
 
 # :bug: Problemas
 
